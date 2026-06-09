@@ -1,14 +1,7 @@
 👋 Hi, I'm Mohammad Arbab
 Welcome to my GitHub profile! Here you can take a look at my stats and the programming languages I use most often.
-
-👋 你好，我是 Mohammad Arbab
-欢迎来到我的 GitHub 个人资料！在这里，您可以查看我的统计数据和我最常使用的编程语言。
-
-👋 こんにちは、Mohammad Arbab です
-私の GitHub プロフィールへようこそ！ここでは、私の統計と、私が最もよく使用するプログラミング言語をご覧いただけます。
-
 ---
-Telegram : @Mr_Founder1
+Telegram : @Shadow_architect_1
 <br>
 
 <div align=center>
